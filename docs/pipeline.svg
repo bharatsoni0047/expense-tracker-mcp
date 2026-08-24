@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" width="940" height="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<rect width="940" height="400" rx="14" fill="#ffffff"/>
+<rect width="940" height="400" rx="14" fill="none" stroke="#e2e8f0"/>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/></marker>
+<marker id="arrowG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#059669"/></marker>
+<marker id="arrowR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<text x="24" y="34" font-size="16" font-weight="700" fill="#1f2933">Telling your AI assistant to track your spending</text>
+<text x="24" y="54" font-size="12" fill="#64748b">Ten steps. You just talk - the assistant does the filing.</text>
+<rect x="24" y="92" width="160" height="54" rx="9" fill="#dbeafe" stroke="#2563eb"/>
+<text x="104.0" y="115.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">You say it</text>
+<text x="104.0" y="132.0" text-anchor="middle" font-size="10.5" fill="#64748b">"lunch, 340"</text>
+<circle cx="36" cy="86" r="9" fill="#2563eb"/>
+<text x="36" y="89.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">1</text>
+<path d="M184,119.0 L199,119.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="202" y="92" width="160" height="54" rx="9" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="282.0" y="115.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Assistant hears</text>
+<text x="282.0" y="132.0" text-anchor="middle" font-size="10.5" fill="#64748b">in your chat app</text>
+<circle cx="214" cy="86" r="9" fill="#64748b"/>
+<text x="214" y="89.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">2</text>
+<path d="M362,119.0 L377,119.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="380" y="92" width="160" height="54" rx="9" fill="#ede9fe" stroke="#7c3aed"/>
+<text x="460.0" y="115.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Picks the action</text>
+<text x="460.0" y="132.0" text-anchor="middle" font-size="10.5" fill="#64748b">add? list? total?</text>
+<circle cx="392" cy="86" r="9" fill="#7c3aed"/>
+<text x="392" y="89.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">3</text>
+<path d="M540,119.0 L555,119.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="558" y="92" width="160" height="54" rx="9" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="638.0" y="115.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Reads the list</text>
+<text x="638.0" y="132.0" text-anchor="middle" font-size="10.5" fill="#64748b">of valid categories</text>
+<circle cx="570" cy="86" r="9" fill="#64748b"/>
+<text x="570" y="89.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">4</text>
+<path d="M718,119.0 L733,119.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="736" y="92" width="160" height="54" rx="9" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="816.0" y="115.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Fills the details</text>
+<text x="816.0" y="132.0" text-anchor="middle" font-size="10.5" fill="#64748b">date, amount, type</text>
+<circle cx="748" cy="86" r="9" fill="#64748b"/>
+<text x="748" y="89.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">5</text>
+<path d="M816.0,146 L816.0,216" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="736" y="232" width="160" height="54" rx="9" fill="#d1fae5" stroke="#059669"/>
+<text x="816.0" y="255.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Saves it</text>
+<text x="816.0" y="272.0" text-anchor="middle" font-size="10.5" fill="#64748b">to your own file</text>
+<circle cx="748" cy="226" r="9" fill="#059669"/>
+<text x="748" y="229.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">6</text>
+<path d="M736,259.0 L721,259.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="558" y="232" width="160" height="54" rx="9" fill="#dbeafe" stroke="#2563eb"/>
+<text x="638.0" y="255.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Later you ask</text>
+<text x="638.0" y="272.0" text-anchor="middle" font-size="10.5" fill="#64748b">"what did I spend?"</text>
+<circle cx="570" cy="226" r="9" fill="#2563eb"/>
+<text x="570" y="229.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">7</text>
+<path d="M558,259.0 L543,259.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="380" y="232" width="160" height="54" rx="9" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="460.0" y="255.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Looks it up</text>
+<text x="460.0" y="272.0" text-anchor="middle" font-size="10.5" fill="#64748b">by date range</text>
+<circle cx="392" cy="226" r="9" fill="#64748b"/>
+<text x="392" y="229.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">8</text>
+<path d="M380,259.0 L365,259.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="202" y="232" width="160" height="54" rx="9" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="282.0" y="255.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Adds it up</text>
+<text x="282.0" y="272.0" text-anchor="middle" font-size="10.5" fill="#64748b">grouped by type</text>
+<circle cx="214" cy="226" r="9" fill="#64748b"/>
+<text x="214" y="229.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">9</text>
+<path d="M202,259.0 L187,259.0" stroke="#94a3b8" stroke-width="1.6" fill="none" marker-end="url(#arrow)"/>
+<rect x="24" y="232" width="160" height="54" rx="9" fill="#d1fae5" stroke="#059669"/>
+<text x="104.0" y="255.0" text-anchor="middle" font-size="12.5" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Tells you</text>
+<text x="104.0" y="272.0" text-anchor="middle" font-size="10.5" fill="#64748b">in plain words</text>
+<circle cx="36" cy="226" r="9" fill="#059669"/>
+<text x="36" y="229.5" text-anchor="middle" font-size="10" font-weight="700" fill="#ffffff">10</text>
+<path d="M104.0,286 L104.0,312" stroke="#059669" stroke-width="1.6" fill="none" marker-end="url(#arrowG)"/>
+<rect x="24" y="314" width="250" height="38" rx="9" fill="#d1fae5" stroke="#059669"/>
+<text x="149.0" y="337.5" text-anchor="middle" font-size="12" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">"You spent 4,280 on food"</text>
+<text x="560" y="382" text-anchor="middle" font-size="12" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" fill="#1f2933">Your spending stays in a file on your own computer. Nothing is uploaded anywhere.</text>
+</svg>

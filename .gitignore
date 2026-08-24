@@ -1,0 +1,9 @@
+# your actual spending data - never commit this
+expenses.db
+*.db-wal
+*.db-shm
+
+.env
+__pycache__/
+*.py[cod]
+.venv/
